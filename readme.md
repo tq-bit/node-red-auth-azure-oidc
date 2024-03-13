@@ -1,0 +1,1 @@
+# MS Entra ID node-red authentication
