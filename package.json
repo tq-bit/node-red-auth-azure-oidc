@@ -1,6 +1,6 @@
 {
   "name": "@tq-bit/node-red-auth-azure-oidc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Azure Entra ID (MS Active Directory) plugin for Node-Red",
   "main": "lib/index.js",
   "directories": {
