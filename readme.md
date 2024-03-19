@@ -9,7 +9,7 @@ This module is a wrapper for the `passport-azure-ad` passport module with some d
 In your Node-Red instance (usually `~/.node-red`), install this module with the following command:
 
 ```bash
-npm install node-red-auth-azure-oidc
+npm install @tq-bit/node-red-auth-azure-oidc
 ```
 
 ## Create an app in MS Entra ID
