@@ -1,5 +1,5 @@
 {
-  "name": "node-red-auth-azure-oidc",
+  "name": "@tq-bit/node-red-auth-azure-oidc",
   "version": "1.0.0",
   "description": "An Azure Entra ID (MS Active Directory) plugin for Node-Red",
   "main": "lib/index.js",
@@ -9,8 +9,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "tq-bit",
+  "keywords": [
+    "node-red",
+    "openid",
+    "azure",
+    "ms entra",
+    "single sing on",
+    "sso"
+  ],
+  "author": "tobi@q-bit.me",
   "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "dependencies": {
     "passport-azure-ad": "^4.3.5"
   }
